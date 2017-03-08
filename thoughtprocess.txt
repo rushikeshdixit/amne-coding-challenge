@@ -1,0 +1,3 @@
+First, the file 'input.txt' must be read. To do this
+I will have to require the node fs and read the file.
+
